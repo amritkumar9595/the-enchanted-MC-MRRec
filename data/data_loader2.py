@@ -150,20 +150,3 @@ class DataTransform:
         
         return mag_us_pad/mag_us_pad.max() , mag_gt_pad/mag_us_pad.max() , pha_us_pad , pha_gt_pad , ksp_us/mag_us_pad.max() ,img_us_sens/mag_us_pad.max(), img_gt_sens/mag_us_pad.max() , img_us_np/img_us_np.max() , img_gt_np/img_us_np.max() , sens_t , mask ,img_us_np.max(),fname
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-        
-
-
-
-        
-    
